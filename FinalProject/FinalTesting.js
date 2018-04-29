@@ -1,3 +1,8 @@
+/*
+This is the final project for team KAALIM
+*/
+// First we declare the variables that hold the objects we need
+// in the animation code
 var scene, renderer;  // all threejs programs need these
 var camera, blueAvatarCam, redAvatarCam;  // we have three cameras in the main scene
 var blueAvatar, redAvatar; //to distinguish the avatars
